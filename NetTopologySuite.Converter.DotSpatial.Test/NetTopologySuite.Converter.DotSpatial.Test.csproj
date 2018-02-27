@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DotSpatial.Projections.Wrapper\DotSpatial.Projections.Wrapper.csproj" />
     <ProjectReference Include="..\NetTopologySuite.Converter.DotSpatial\NetTopologySuite.Converter.DotSpatial.csproj" />
   </ItemGroup>
 
